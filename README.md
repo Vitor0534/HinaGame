@@ -1,6 +1,6 @@
 # Hina.IA Game
 
-Hina.IA é um mangá educacional criado por mim em conjunto com meu amigo [Lucas Macedo](https://github.com/LuckasMacedo2). O mangá pode ser acessado no seguinte link:
+Hina.IA é um mangá educacional criado por mim e meu amigo [Lucas Macedo](https://github.com/LuckasMacedo2). O mangá pode ser acessado no seguinte link:
 - [Hina.IA](https://github.com/Vitor0534/Hina.ia)
 
 ### Sobre o desenvolvimento
