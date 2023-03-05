@@ -1,13 +1,13 @@
-/*antações do desenvolvimento:
+/*Anotações do desenvolvimento:
 
-1) 19/03/2021: até o momento foram implementadas os seguintes pontos
-________________* Sprite: é uma classe que pode ser usada para qualquer sprite no jogo, e especifcamente recebe um atributo
-__________________________de velocidade, para dizer o passe que a goda deve percorrer na tela. o sprite tb tem atributos gericos como:
+1) 19/03/2021: até o momento foram implementados os seguintes pontos
+________________* Sprite: é uma classe que pode ser usada para qualquer sprite no jogo e, especificamente, recebe um atributo
+__________________________de velocidade, para dizer o passe que a gota deve percorrer na tela. o sprite também tem atributos gericos como:
 __________________________________* pontos xy e dimensões;
-________________* Movimento (classe drop): é uma classe que controla todo movimento a cerca das gotas, a classe contem alguns método e atributos tais como:
-_____________________________* Randon_drop(): que cria um vetor aleatório de gotas, para se mover na tela;
+________________* Movimento (classe drop): é uma classe que controla todo movimento das gotas, a classe contem alguns método e atributos tais como:
+_____________________________* Randon_drop(): cria um vetor aleatório de gotas, para se mover na tela;
 _____________________________* Move_Drops(): movimenta as gotas pela tela na direção y com base no atributo speed de cada drop;
-_____________________________* colision(Sprite): verifica a colisão da gota com a Hina, verificando a sobreposição de áreas;
+_____________________________* colision(Sprite): verifica a colisão da gota com a Hina, checando a sobreposição de áreas;
 
 
 
