@@ -20,7 +20,7 @@ Sendo assim, o objetivo do jogo é coletar o máximo de gotas de café possível
 - Para coletar a gota basta posicionar a personagem abaixo da mesma e os pontos serão contabilizados
 
 #### Lógica: 
-- Foram desenvolvidas algumas lógicas para o jogo, as principais foram:
+- Foram desenvolvidas algumas lógicas para o jogo, as principais são:
     - Carregamento dos sprits;
     - Movimento da personagem: utilizando o mouse;
     - Movimento das gotas: eles surgem de forma randômica e se movem no exio Y da tela;
