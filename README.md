@@ -12,7 +12,7 @@ O desenvolvimento ainda está em faze inicial, então tem poucas features implem
 - Processing
 
 ### Sobre o jogo
-A dupla X e Y resolvem fazer upgrade suspeito feito em Hina pela. Contudo essa nova abilidade sai do controle e Hina acaba provocando uma tempestade de café. Enquanto os dois pesquisadores tentam descobrir o que deu errado e como parar toda essa confusão. Hina só quer saber de coletar as gotas de café que caem do céu.
+A Toni e Karen resolvem fazer um upgrade suspeito em Hina. Contudo, essa nova habilidade sai do controle e Hina acaba provocando uma tempestade de café. Enquanto os dois pesquisadores tentam descobrir o que deu errado e como parar toda essa confusão. Hina só quer saber de coletar as gotas de café que caem do céu.
 Sendo assim, o objetivo do jogo é coletar o máximo de gotas de café possível que equivalem a pontos.
 
 #### Mecânica:
@@ -20,10 +20,10 @@ Sendo assim, o objetivo do jogo é coletar o máximo de gotas de café possível
 - Para coletar a gota basta posicionar a personagem abaixo da mesma e os pontos serão contabilizados
 
 #### Lógica: 
-- Foram desenvolvidas algumas lógica para o jogo, as principais foram:
+- Foram desenvolvidas algumas lógicas para o jogo, as principais foram:
     - Carregamento dos sprits;
-    - Movimento da personagem: utilzando o mouse;
-    - Movimento das gotas: eles surgem de forma randomica e se movem no exio Y da tela;
-    - Colisão: Lógica de colizão da gota com o personagem;
+    - Movimento da personagem: utilizando o mouse;
+    - Movimento das gotas: eles surgem de forma randômica e se movem no exio Y da tela;
+    - Colisão: Lógica de colisão da gota com o personagem;
     - Animação: animação de splash da gota ao se colidir;
     - Placar de pontos.
